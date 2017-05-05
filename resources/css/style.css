@@ -12,6 +12,7 @@ h1{
 
 .banner{
   background-image: url("background/the-flatiron-building.png");
+  color: white;
 }
 
 a {
@@ -24,6 +25,22 @@ a {
   font-weight: bold;
 }
 
-p{
+.meat p{
   font-size: 14px;
+}
+
+.photobanner2{
+  background-image: url("background/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+
 }
